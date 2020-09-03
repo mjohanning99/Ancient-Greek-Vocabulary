@@ -1,0 +1,27 @@
+ἄργυρος, ἀργύρου, ὁ	silver
+ἀργύριον, ἀργυρίου, τό	small coin; money
+ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην	rule, command (+ gen.)
+βλάπτω, βλάψω, ἔβλαψα, βέβλαφα, βέβλαμμαι, ἐβλάβην (ἐβλάφθην)	hurt, harm
+γῆ, γῆς, ἡ	earth, land
+διδάσκαλος, διδασκάλου, ὁ	teacher
+δόξα, δόξης, ἡ	expectation, belief; reputation, glory
+θάνατος, θανάτου, ὁ	death
+ἀθάνατος, ἀθάνατον	undying, immortal
+ἱερός, ἱερά, ἱερόν	holy, sacred to (+ gen.)
+ἱερόν, ἱεροῦ, τό	shrine
+ἱκανός, ἱκανή, ἱκανόν	sufficient, capable
+ἵππος, ἵππου, ὁ, ἡ	horse, mare
+κίνδυνος, κινδύνου, ὁ	danger
+λίθος, λίθου, ὁ	stone
+μακρός, μακρά, μακρόν	long, tall
+μικρός, μικρά, μικρόν	small, little, short
+πεδίον, πεδίου, τό	plain
+πείθω, πείσω, ἐπείσα, πέπεικα, πέπεισμαι, ἐπείσθην	persuade
+πολέμιος, πολεμία, πολέμιον	hostile (+ dat.)
+πράττω, πράξω, ἔπραξα, πέπραχα (πέπραγα), πέπραγμαι, ἐπράχθην	do; fare
+πρῶτος, πρώτη, πρῶτον	first
+ὑπό + gen.	by (personal agent); under
+ὑπό + dat.	under, under the power of
+ὑπό + acc.	under (with motion); toward (of time)
+φόβος, φόβου, ὁ	fear
+φοβερός, φοβερά, φοβερόν	fearful
